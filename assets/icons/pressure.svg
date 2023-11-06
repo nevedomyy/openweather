@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality" viewBox="0 0 6.827 8.533" fill-rule="evenodd" clip-rule="evenodd">
+    <defs>
+        <style>
+            .fil0{fill:#000;fill-rule:nonzero}
+        </style>
+    </defs>
+    <path class="fil0" d="M3.893 3.642a1.293 1.293 0 0 1 .6 1.088 1.283 1.283 0 0 1-1.286 1.287A1.283 1.283 0 0 1 1.92 4.73a1.28 1.28 0 0 1 .6-1.088V1.25a.685.685 0 0 1 .687-.687.685.685 0 0 1 .686.687v2.392zm.291.527a1.133 1.133 0 0 0-.41-.413l-.04-.023V1.25a.525.525 0 0 0-.9-.372.525.525 0 0 0-.154.372V3.733l-.04.023a1.133 1.133 0 0 0-.56.974 1.123 1.123 0 0 0 1.127 1.127A1.123 1.123 0 0 0 4.333 4.73c0-.205-.054-.396-.149-.56z"/>
+    <path class="fil0" d="M3.207 4.048a.673.673 0 0 1 .675.675.673.673 0 0 1-.675.675.673.673 0 0 1-.675-.675.673.673 0 0 1 .675-.675zm.364.311a.513.513 0 0 0-.88.364.513.513 0 0 0 .88.365.513.513 0 0 0 0-.729z"/>
+    <path class="fil0" d="M3.287 1.279a.08.08 0 0 0-.16 0v2.85a.08.08 0 0 0 .16 0v-2.85z"/>
+    <path style="fill:none" d="M0 0h6.827v6.827H0z"/>
+</svg>
