@@ -36,6 +36,8 @@ dev_dependencies:
   json_serializable: 6.7.1
   retrofit_generator: 8.0.3
   freezed: 2.4.5
+  bloc_test: 9.1.5
+  mockito: 5.4.2
 
 flutter:
   uses-material-design: true

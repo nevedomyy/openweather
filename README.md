@@ -47,4 +47,7 @@ current temperature, humidity, pressure, and wind
 
 <img src="readme/web.gif" width="365" height="300"/>  
 
+- add tests  
+
+<img src="readme/tests.png" height="150"/>  
 
